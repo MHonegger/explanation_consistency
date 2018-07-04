@@ -1,2 +1,2 @@
-# explanation_consistency
+# Explanation Consistency Framework
 This repository contains the entire codebase that was used in the development of the Explantion Consistency Framework (ECF). The ECF was researched and developed throughout my master thesis and allows to assess and compare the explanation quality amongst different explanation methods such as LIME and SHAP. The notebooks moreover contain descriptive and visual analyses of the used datasets, as well as the implementation of a range of prediction models including XGB and LSTM, and the application of the two explanation methods LIME and SHAP.
